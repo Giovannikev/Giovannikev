@@ -11,4 +11,4 @@ Always learning, always building. 🚀
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=default&hide_title=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Giovannikev&show_icons=true&theme=default&hide_title=true)
